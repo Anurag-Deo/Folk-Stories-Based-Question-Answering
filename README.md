@@ -216,13 +216,17 @@ Check out our project in action!
     <video src="./Assets/video.mp4" width="640" height="360" controls></video>
 </div>
 
+
+https://github.com/user-attachments/assets/e81819ab-3e15-453b-ab16-a751940aee38
+
+
+
 *Note: If the video doesn't play directly in your browser, you can download it by clicking [here](./Assets/video.mp4).*
 
 ---
 ## 📝 Presentation 🎭
 
 You can download our detailed project presentation from [here](./Assets/Folk_Tale_Question_Answering_NLP.pdf).
-
 
 <!-- <embed src="./Assets/Folk_Tale_Question_Answering_NLP.pdf" type="application/pdf" width="100%" height="600px" />
 
