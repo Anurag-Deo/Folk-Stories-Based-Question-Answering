@@ -2,7 +2,7 @@
 
 Welcome to Enchanted Tales! This project brings folk stories to life by creating a question-answering system powered by a fine-tuned Large Language Model (LLM). It automatically scrapes stories, generates relevant question-answer pairs, and trains a model to understand and respond to queries about these tales. Finally, it provides an easy-to-use web interface for interaction.
 
-![Gradio Interface Preview](./Datasets/screenshot.jpeg)
+![Gradio Interface Preview](./Assets/screenshot.jpeg)
 
 ---
 
@@ -208,6 +208,29 @@ The fine-tuning script (`finetuning.py`) includes an evaluation step using the f
 The evaluation results are printed to the console after training.
 
 ---
+## 🎬 Demo
+
+Check out our project in action!
+
+<div align="center">
+    <video src="./Assets/video.mp4" width="640" height="360" controls></video>
+</div>
+
+*Note: If the video doesn't play directly in your browser, you can download it by clicking [here](./Assets/video.mp4).*
+
+---
+## 📝 Presentation 🎭
+
+You can download our detailed project presentation from [here](./Assets/Folk_Tale_Question_Answering_NLP.pdf).
+
+
+<!-- <embed src="./Assets/Folk_Tale_Question_Answering_NLP.pdf" type="application/pdf" width="100%" height="600px" />
+
+*Note: If the PDF doesn't load directly in your browser, you can download it by clicking [here](./Assets/Folk_Tale_Question_Answering_NLP.pdf).* -->
+
+
+---
+
 
 Happy Storytelling! 🧚‍♀️📜
 
